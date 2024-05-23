@@ -4,8 +4,10 @@
   <a href="https://instagram.com/yuri_f.s" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yurif-s&show_icons=true&theme=onedark)<br><br>
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yurif-s)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yurif-s&show_icons=true&theme=onedark&count_private=true&include_all_commits=true&cache_seconds=1800&token=GitHub-Readme-Stats-Token)<br><br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yurif-s&cache_seconds=1800)
+
    
    ## Tecnologias que eu uso
  
