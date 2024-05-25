@@ -6,7 +6,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yurif-s&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&cache_seconds=1800&token=GitHub-Readme-Stats-Token)<br><br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yurif-s&layout=compact&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yurif-s&layout=compact&cache_seconds=1800&theme=dracula)
 
    
    ## Tecnologias que eu uso
