@@ -15,6 +15,5 @@
   <div style="display: inline_block"><br/>
      <img aling="center" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
      <img aling="center" alt="Flask" src="https://img.shields.io/badge/flask-22B14C?style=for-the-badge&logo=flask&logoColor=black">  
-     <img aling="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-     <img aling="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+     
      
