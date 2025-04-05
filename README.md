@@ -1,5 +1,5 @@
 ## Oi, Eu Sou o Yuri 👋
-### Estudante de Desenvolvimento de Sistemas 👨‍💻 1/3
+### Estudante de Desenvolvimento de Sistemas 👨‍💻 2/3
 
 <div>
 <a href="https://github.com/Yurif-s">
