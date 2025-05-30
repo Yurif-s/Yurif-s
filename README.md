@@ -20,7 +20,9 @@
 <div style="display: inline_block"><br/>
   <img aling="center" alt="ASP.Net" src="https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">  
 </div>
-<hr>
+
+
+## Redes 🌐
 <div>
 <a href="https://instagram.com/yuri_f.s" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/yurifs90/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
